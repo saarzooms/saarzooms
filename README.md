@@ -57,7 +57,7 @@ Here are some of my key projects with live demos and source code:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saarzooms&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saarzooms&layout=compact&theme=radical)
 
 Thanks for visiting! Feel free to explore my repositories and reach out for collaboration! 😄
