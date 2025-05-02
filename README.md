@@ -68,9 +68,9 @@ Here are some of my key projects with live demos and source code:
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Email**: [your.email@example.com](mailto:arzoo@allysoftsolutions.com)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **LinkedIn**: [Shamsaagazarzoo Alam](https://www.linkedin.com/in/shamsaagazarzoo-alam-63188a67/)
+- **Email**: [arzoo@allysoftsolutions.com](mailto:arzoo@allysoftsolutions.com)
+
 
 ---
 
