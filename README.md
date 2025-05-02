@@ -7,9 +7,23 @@ Hi, I'm Shamsaagazarzoo Alam, a passionate developer and designer showcasing my 
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-- **Python**: Building web apps, automation scripts, and data analysis tools.
-- **JavaScript**: Proficient in React, Node.js, and dynamic front-end development.
+- **Dart**: Building cross-platform apps with Flutter.
 - **Java**: Skilled in scalable backend systems and Android app development.
+- **PHP**: Creating dynamic web applications with Laravel and CodeIgniter.
+- **JavaScript**: Proficient in React, Node.js, and dynamic front-end development.
+- **Python**: Building web apps, automation scripts, and data analysis tools.
+- **HTML**: Structuring responsive and semantic web content.
+- **CSS**: Styling modern, responsive designs with frameworks like Tailwind.
+- **C**: Writing low-level, performance-critical applications.
+- **C++**: Developing high-performance systems and applications.
+
+
+### 🧰 Frameworks
+- **Flutter**: Creating cross-platform mobile and web apps with Dart.
+- **MERN Stack**: Building full-stack web apps with MongoDB, Express, React, and Node.js.
+- **Laravel**: Developing robust PHP-based web applications.
+- **CodeIgniter**: Crafting lightweight and efficient PHP web solutions.
+
 
 ### 🎨 Designing
 - **UI/UX Design**: Crafting user-friendly interfaces using Figma and Adobe XD.
@@ -21,8 +35,11 @@ Hi, I'm Shamsaagazarzoo Alam, a passionate developer and designer showcasing my 
 - **VS Code**: Primary code editor with extensive plugin support.
 
 ### 🗄️ Databases
+- **PostgreSQL**: Handling complex, scalable relational data.
 - **MySQL**: Designing and querying relational databases.
+- **Oracle**: Managing enterprise-grade relational databases.
 - **MongoDB**: Working with NoSQL databases for flexible data storage.
+- **Firestore**: Building real-time, scalable NoSQL databases for mobile and web.
 
 ---
 
