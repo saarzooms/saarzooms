@@ -43,29 +43,7 @@ Hi, I'm Shamsaagazarzoo Alam, a passionate developer and designer showcasing my 
 
 ---
 
-## 🌟 Projects
 
-Here are some of my key projects with live demos and source code:
-
-- **[E-Commerce Platform]**
-  - **Description**: A full-stack web app built with React, Node.js, and MongoDB for seamless online shopping.
-  - **Tech Stack**: React, Node.js, MongoDB, Express
-  - **GitHub**: [View Source](https://github.com/yourusername/ecommerce)
-  - **Live Demo**: [Check it Out](https://your-live-demo.com)
-
-- **[Task Manager App]**
-  - **Description**: A productivity app with real-time task tracking, built with Python and Flask.
-  - **Tech Stack**: Python, Flask, MySQL
-  - **GitHub**: [View Source](https://github.com/yourusername/task-manager)
-  - **Live Demo**: [Check it Out](https://your-task-manager-demo.com)
-
-- **[Portfolio Website]**
-  - **Description**: A personal portfolio showcasing my work, designed with HTML, CSS, and JavaScript.
-  - **Tech Stack**: HTML, CSS, JavaScript, Tailwind CSS
-  - **GitHub**: [View Source](https://github.com/yourusername/portfolio)
-  - **Live Demo**: [Check it Out](https://your-portfolio-demo.com)
-
----
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Shamsaagazarzoo Alam](https://www.linkedin.com/in/shamsaagazarzoo-alam-63188a67/)
